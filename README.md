@@ -11,7 +11,7 @@ npm i
 ```
 
 # if you want to copy one database to another then
-Step 3:
+Step 3: Define the sourceUrl and targetUrl then run the below command
 ```bash
 node copyDatabase.js
 ```
